@@ -17,7 +17,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\prototype\base_option.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\prototype\ptext.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\prototype\views.py">
           <value>
             <Attribute>
               <option name="separator" value=":" />
